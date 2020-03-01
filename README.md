@@ -18,7 +18,7 @@ Despite the issues we faced at our employer, we were unanimous in our affection 
 
 So, we've created a loose organisation, *Jackal Labs*, which we hope will allow us the ability to continue building high-quality tech products for growing businesses, research institutions, and to satisfy our own interests and passions, which often extend far beyond digital currency and straight Python.
 
-### Jackal collaborators
+### Jackal's mission
 
 As a lab, right now we are unfunded and unpaid, though all of us currently work elsewhere, in a number of European cities. We collaborate together on hobby projects, with a longer-term aim of establishing connections with early- to mid-stage startups and research projects, potentially providing services such as consultancy and software architecture design. Moreover, we are potentially able to be hired as a team. In comparison with the time and efforts associated with building
 
@@ -28,12 +28,20 @@ At a project's conclusion, we are able to deliver comprehensive documentation an
 
 ### Members, expertise and interests
 
-> Josef Prenner
+> Everyone involved in the project has written something about themselves in the spaces below. We were all colleagues in Vienna, in a more traditional working environment. Now we're simply collaborators, without hierarchy or enforced roles, or even a shared political outlook.
 
-> Jon-Boy Wood
+> The way we structure ourselves for a given contract at Jackal does not depend simply on seniority; instead, the way we organise ourselves for a new task depends on numerous factors, such as our individual availabilities, passions and interests, client requests, and extent of prior experience with the relevant software stack. Some of our work practices are negotiable on a client-by-client basis; other practices are not.
 
-> Taneli Hukkenin 
+#### Josef Prenner
 
-> Danny McDonald
+#### Jon-Boy Wood
 
-> Michael Egger
+#### Taneli Hukkinen 
+
+#### Danny McDonald
+
+I've spent the last years drifting between industry and university. After Bitpanda I headed to the University of Zurich, where I do a bit of everything, IT, computational sciences, teaching, consultancy and software development. My earlier training was in linguistics; I hold a PhD from the University of Melbourne in corpus/computational linguistics, with research centred on developing novel computational linguistic methods to identify language change over the course of membership in an online support group for bipolar disorder.
+
+At Bitpanda, I had the privilege of being in charge of the interviewing and hiring of all these other guys. For me, Jackal Labs means I'm in the very rare position of being able to work again with a team that I care about and respect, and with whom I worked happily inside a workplace that was for me, often anything but.
+
+#### Michael Egger
